@@ -49,13 +49,69 @@ Grading
 
 Final grades for the class will be based on the following formula:
 
-| ELEMENT | % of GRade |
-| --- | --- |
-| Weekly Reflections (5% x 11) | 55% |
-| Class Participation (includes preparation of discussion questions when assigned) | 25% |
-| Final Project | 20% |
-| Random Surrealist Coin Toss | 1% |
-| **Total** | **101%** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ELEMENT
+{{< thclose >}}
+{{< thopen >}}
+% of GRade
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Reflections (5% x 11)
+{{< tdclose >}}
+{{< tdopen >}}
+55%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation (includes preparation of discussion questions when assigned)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Random Surrealist Coin Toss
+{{< tdclose >}}
+{{< tdopen >}}
+1%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tfootopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**101%**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tfootclose >}}
+
+{{< tableclose >}}
 
 Feedback
 --------
