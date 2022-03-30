@@ -4,6 +4,7 @@ description: A PowerPoint presentation by Blanche Shao, a student in 11.s942 Wan
   in Psychogeography.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/595e7bd1d41261c3fb6378715656f450_MIT11_s942f20_shao_slides.pptx
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+parent_uid: 617c4ffd-6367-fcb8-8669-19dc806b57a4
 resourcetype: Other
 title: On the Sounds of Cities
 uid: 595e7bd1-d412-61c3-fb63-78715656f450
